@@ -1,0 +1,36 @@
+nav{
+  background-color: lightblue;
+
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+
+}
+
+li{
+  display: inline-block;
+}
+li a {
+  padding: 10px;
+  text-decoration: none;
+}
+li a:hover{
+  color:red;
+  transition: 0.5s ease;
+  font-size: 20px;
+}
+
+div{
+  text-align: center;
+}
+button{
+  margin: 10px;
+  width: 50px;
+  height: 25px;
+}
+button:hover{
+  color: white;
+  background-color: darkgray;
+}
